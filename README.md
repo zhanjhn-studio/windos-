@@ -46,7 +46,7 @@
 1. 下载或克隆本仓库：
 
    ```bash
-   git clone https://github.com/你的用户名/Windows-Cache-Cleaner.git
+   https://github.com/zhanjhn-studio/windos-Clear-Cache.git
    ```
 
 2. 双击运行 `Clear-Cache.bat`
@@ -89,6 +89,3 @@ Windows-Cache-Cleaner/
 - 清理缓存通常安全，但使用前建议确认没有未保存的工作。
 - 内存缓存清理的效果是暂时的，Windows 会在后续使用中重新积累缓存，这是系统的正常设计。
 
-## 📄 许可证
-
-[MIT License](LICENSE)
